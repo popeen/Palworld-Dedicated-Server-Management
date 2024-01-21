@@ -1,0 +1,3 @@
+[submodule "powershell-rcon"]
+	path = powershell-rcon
+	url = https://github.com/ThisIsntTheWay/powershell-rcon
