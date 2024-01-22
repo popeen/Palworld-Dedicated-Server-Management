@@ -34,10 +34,10 @@ Invoke-RconCmd -cmd "Broadcast Server_will_reboot_in_30_minutes"
 Start-Sleep -Seconds $(60 * 15)
 
 Invoke-RconCmd -cmd "Broadcast Server_will_reboot_in_15_minutes"
-Start-Sleep -Seconds $(1 * 5)
+Start-Sleep -Seconds $(60 * 5)
 
 Invoke-RconCmd -cmd "Broadcast Server_will_reboot_in_10_minutes"
-Start-Sleep -Seconds $(1 * 5)
+Start-Sleep -Seconds $(60 * 5)
 
 Invoke-RconCmd -cmd "Broadcast Server_will_reboot_in_5_minutes"
 Start-Sleep -Seconds $(60 * 1)
