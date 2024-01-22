@@ -1,5 +1,5 @@
 # Palworld-Dedicated-Server-Management
-The scripts I use for automatic backups and updates of a Palworld dedicated server. 
+The scripts I use for automatic backups and updates of a Palworld dedicated server running on Windows. 
 
 The server need to have rcon enabled and an admin password set. 
 
